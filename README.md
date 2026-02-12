@@ -29,7 +29,7 @@ Move a colored object (like a red marker or ball) in front of your camera to con
 7. Score increases, particles are generated, and levels scale difficulty.
 
 ## Tech Stack
-* Python 3.x  
+* Python 3.12.7  
 * OpenCV (cv2)  
 * NumPy  
 * Random  
